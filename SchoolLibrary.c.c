@@ -1,3 +1,11 @@
+/*School Library Management System
+Author: Victor Otieno
+Date: October,2021
+Compiler: GNU, GCC
+Language: C99
+Licence: MIT
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
